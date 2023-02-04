@@ -12,6 +12,7 @@ export const FooterLinkItem = (props: IFooterLinkItemProps) => {
 		<Link
 			href={url}
 			target="_blank"
+			aria-label="Link to external site"
 			className="ml-4 text-2xl text-white hover:text-neutral400"
 		>
 			{children}

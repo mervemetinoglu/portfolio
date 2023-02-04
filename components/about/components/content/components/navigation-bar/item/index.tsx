@@ -14,6 +14,7 @@ export const NavigationBarItem = ({
 	return (
 		<a
 			href={url}
+			aria-label={name}
 			className="group mt-4 flex items-center text-neutral400 lg:mt-10"
 		>
 			<span

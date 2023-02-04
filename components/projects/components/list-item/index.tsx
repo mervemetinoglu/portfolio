@@ -14,6 +14,7 @@ export const ProjectsListItem = ({ projectItem }: IProjectsListItemProps) => {
 				target="_blank"
 				href={projectItem.url}
 				className="absolute top-0 left-0 bottom-0 right-0 w-full bg-transparent"
+				aria-label={projectItem.name}
 			/>
 			<div className="ml-5 hidden w-80 duration-1000 group-hover:block">
 				<span className="text-xs text-zinc400 md:text-justify md:text-base">
