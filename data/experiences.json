@@ -1,0 +1,32 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"date": "Feb - Nov 2022",
+			"companyName": "Radity",
+			"role": "Jr. Frontend Developer",
+			"description": "Radity is a software company that provides solutions for the insurance sector. I will be working on the frontend side of the company. I use React, TypeScript, Material UI, and Context Api on the frontend side."
+		},
+		{
+			"id": 2,
+			"date": "Sep - Oct 2021",
+			"companyName": "CicekSepeti & Patika.dev React Bootcamp",
+			"role": "Student",
+			"description": "I participated in the React Bootcamp organized by CicekSepeti and Patika.dev. I learned the basics of JavaScript, HTML, CSS, React."
+		},
+		{
+			"id": 3,
+			"date": "Aug - Sep 2020",
+			"companyName": "OBSS Technology",
+			"role": "Intern",
+			"description": "It was my summer internship. I learned Java SE, Java EE, and Spring Framework."
+		},
+		{
+			"id": 4,
+			"date": "2017 - Jun 2021",
+			"companyName": "Kocaeli University",
+			"role": "Student",
+			"description": "I studied Computer Engineering at Kocaeli University. I learned C, Java, Data Structures, Algorithms, Database, Operating Systems, and Computer Networks."
+		}
+	]
+}
