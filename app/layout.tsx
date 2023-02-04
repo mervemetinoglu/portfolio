@@ -6,7 +6,7 @@ export default function RootLayout({
 	children: React.ReactNode;
 }) {
 	return (
-		<html>
+		<html lang="en">
 			<head />
 			<body className="bg-night100">{children}</body>
 		</html>
