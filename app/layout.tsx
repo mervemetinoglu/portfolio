@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import './globals.css';
 
 export default function RootLayout({
@@ -9,7 +8,7 @@ export default function RootLayout({
 	return (
 		<html>
 			<head />
-			<body className="bg-night">{children}</body>
+			<body className="bg-night100">{children}</body>
 		</html>
 	);
 }
