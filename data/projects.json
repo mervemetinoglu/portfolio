@@ -1,153 +1,153 @@
 {
-	"data": [
-		{
-			"id": 1,
-			"name": "Ikinci El Project",
-			"description": "This is a full-featured e-commerce application that allows you to add, buy and sell products and also allows you can be managed received, and give offers in the app.",
-			"tools": [
-				{
-					"id": 10,
-					"name": "React"
-				},
-				{
-					"id": 11,
-					"name": "Redux"
-				},
-				{
-					"id": 12,
-					"name": "React-Router"
-				},
-				{
-					"id": 13,
-					"name": "SASS"
-				},
-				{
-					"id": 14,
-					"name": "styled-components"
-				},
-				{
-					"id": 15,
-					"name": "react-toastify"
-				}
-			],
-			"url": "https://github.com/mervemetinoglu/ciceksepeti-patika-react-bootcamp-graduation-project",
-			"img": "https://via.placeholder.com/150"
-		},
-		{
-			"id": 2,
-			"name": "Lecture Register System",
-			"description": "This is a register system which students and teachers can CRUD operations. The project was developed using React on the client side and Node.js on the server side.",
-			"tools": [
-				{
-					"id": 20,
-					"name": "React"
-				},
-				{
-					"id": 21,
-					"name": "Node.js"
-				},
-				{
-					"id": 22,
-					"name": "Express"
-				},
-				{
-					"id": 23,
-					"name": "MySQL"
-				},
-				{
-					"id": 24,
-					"name": "Redux"
-				},
-				{
-					"id": 25,
-					"name": "react-toastify"
-				},
-				{
-					"id": 26,
-					"name": "React-Router"
-				},
-				{
-					"id": 27,
-					"name": "SASS"
-				}
-			],
-			"url": "https://github.com/mervemetinoglu/lecture-register-system",
-			"img": "https://via.placeholder.com/150"
-		},
-		{
-			"id": 3,
-			"name": "Star Wars CSS Library",
-			"description": "This project was developed to create a custom basic css library using SASS.",
-			"tools": [
-				{
-					"id": 30,
-					"name": "SASS"
-				},
-				{
-					"id": 31,
-					"name": "gulp"
-				}
-			],
-			"url": "https://github.com/mervemetinoglu/star-wars-css-library",
-			"img": "https://via.placeholder.com/150"
-		},
-		{
-			"id": 4,
-			"name": "Job Posts Listing App",
-			"description": "This project was developed to list and filter job postings.",
-			"tools": [
-				{
-					"id": 40,
-					"name": "React"
-				},
-				{
-					"id": 41,
-					"name": "TypeScript"
-				},
-				{
-					"id": 42,
-					"name": "SASS"
-				},
-				{
-					"id": 43,
-					"name": "Vite"
-				},
-				{
-					"id": 44,
-					"name": "classnames"
-				}
-			],
-			"url": "https://github.com/mervemetinoglu/job-listing",
-			"img": "https://via.placeholder.com/150"
-		},
-		{
-			"id": 5,
-			"name": "Invoices Portal",
-			"description": "This project has been developed for users to perform CRUD operations on invoices.",
-			"tools": [
-				{
-					"id": 50,
-					"name": "React"
-				},
-				{
-					"id": 51,
-					"name": "i18next"
-				},
-				{
-					"id": 52,
-					"name": "SASS"
-				},
-				{
-					"id": 53,
-					"name": "date-fns"
-				},
-				{
-					"id": 54,
-					"name": "react-toastify"
-				}
-			],
-			"url": "https://github.com/mervemetinoglu/bills-portal",
-			"img": "https://via.placeholder.com/150"
-		}
-	]
+  "data": [
+    {
+      "id": 1,
+      "name": "Ikinci El Project",
+      "description": "This is a full-featured e-commerce application that allows you to add, buy and sell products and also allows you can be managed received, and give offers in the app.",
+      "tools": [
+        {
+          "id": 10,
+          "name": "React"
+        },
+        {
+          "id": 11,
+          "name": "Redux"
+        },
+        {
+          "id": 12,
+          "name": "React-Router"
+        },
+        {
+          "id": 13,
+          "name": "SASS"
+        },
+        {
+          "id": 14,
+          "name": "styled-components"
+        },
+        {
+          "id": 15,
+          "name": "react-toastify"
+        }
+      ],
+      "url": "https://github.com/mervemetinoglu/ciceksepeti-patika-react-bootcamp-graduation-project",
+      "img": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "name": "Lecture Register System",
+      "description": "This is a register system which students and teachers can CRUD operations. The project was developed using React on the client side and Node.js on the server side.",
+      "tools": [
+        {
+          "id": 20,
+          "name": "React"
+        },
+        {
+          "id": 21,
+          "name": "Node.js"
+        },
+        {
+          "id": 22,
+          "name": "Express"
+        },
+        {
+          "id": 23,
+          "name": "MySQL"
+        },
+        {
+          "id": 24,
+          "name": "Redux"
+        },
+        {
+          "id": 25,
+          "name": "react-toastify"
+        },
+        {
+          "id": 26,
+          "name": "React-Router"
+        },
+        {
+          "id": 27,
+          "name": "SASS"
+        }
+      ],
+      "url": "https://github.com/mervemetinoglu/lecture-register-system",
+      "img": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 3,
+      "name": "Star Wars CSS Library",
+      "description": "This project was developed to create a custom basic css library using SASS.",
+      "tools": [
+        {
+          "id": 30,
+          "name": "SASS"
+        },
+        {
+          "id": 31,
+          "name": "gulp"
+        }
+      ],
+      "url": "https://github.com/mervemetinoglu/star-wars-css-library",
+      "img": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 4,
+      "name": "Job Posts Listing App",
+      "description": "This project was developed to list and filter job postings.",
+      "tools": [
+        {
+          "id": 40,
+          "name": "React"
+        },
+        {
+          "id": 41,
+          "name": "TypeScript"
+        },
+        {
+          "id": 42,
+          "name": "SASS"
+        },
+        {
+          "id": 43,
+          "name": "Vite"
+        },
+        {
+          "id": 44,
+          "name": "classnames"
+        }
+      ],
+      "url": "https://github.com/mervemetinoglu/job-listing",
+      "img": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 5,
+      "name": "Invoices Portal",
+      "description": "This project has been developed for users to perform CRUD operations on invoices.",
+      "tools": [
+        {
+          "id": 50,
+          "name": "React"
+        },
+        {
+          "id": 51,
+          "name": "i18next"
+        },
+        {
+          "id": 52,
+          "name": "SASS"
+        },
+        {
+          "id": 53,
+          "name": "date-fns"
+        },
+        {
+          "id": 54,
+          "name": "react-toastify"
+        }
+      ],
+      "url": "https://github.com/mervemetinoglu/bills-portal",
+      "img": "https://via.placeholder.com/150"
+    }
+  ]
 }
