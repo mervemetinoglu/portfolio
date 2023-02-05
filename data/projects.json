@@ -3,7 +3,7 @@
 		{
 			"id": 1,
 			"name": "Ikinci El Project",
-			"description": "This project created by using React for graduation project given from CicekSepeti-Patika.dev React Bootcamp.",
+			"description": "This is a full-featured e-commerce application that allows you to add, buy and sell products and also allows you can be managed received, and give offers in the app.",
 			"tools": [
 				{
 					"id": 10,
@@ -36,7 +36,7 @@
 		{
 			"id": 2,
 			"name": "Lecture Register System",
-			"description": "This is a register system which students and teachers can use. The project created by using React on the client side and Node.js on the server side. ",
+			"description": "This is a register system which students and teachers can CRUD operations. The project was developed using React on the client side and Node.js on the server side.",
 			"tools": [
 				{
 					"id": 20,
@@ -77,7 +77,7 @@
 		{
 			"id": 3,
 			"name": "Star Wars CSS Library",
-			"description": "This project created for a custom basic css library with using SASS.",
+			"description": "This project was developed to create a custom basic css library using SASS.",
 			"tools": [
 				{
 					"id": 30,
@@ -93,8 +93,8 @@
 		},
 		{
 			"id": 4,
-			"name": "Job Listing App",
-			"description": "Simple job listing app created by using React.",
+			"name": "Job Posts Listing App",
+			"description": "This project was developed to list and filter job postings.",
 			"tools": [
 				{
 					"id": 40,
@@ -122,8 +122,8 @@
 		},
 		{
 			"id": 5,
-			"name": "Bills Portal",
-			"description": "Simple bills portal created by using React.",
+			"name": "Invoices Portal",
+			"description": "This project has been developed for users to perform CRUD operations on invoices.",
 			"tools": [
 				{
 					"id": 50,
