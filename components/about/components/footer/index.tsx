@@ -5,7 +5,7 @@ import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai';
 
 export const Footer = () => {
   return (
-    <footer className="mt-8 flex w-14 items-center md:w-full lg:mt-0">
+    <footer className="mt-8 flex items-center md:w-full lg:mt-0">
       <div className="h-16 w-16 overflow-hidden rounded-full">
         <Image src={profileImg} alt="Image of the author" />
       </div>
