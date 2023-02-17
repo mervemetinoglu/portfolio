@@ -2,7 +2,7 @@
 
 This is a portfolio project that I have developed for myself using Next.js.
 
-[:star2:](https://mervemetinoglu.vercel.app/)
+[Demo here:star2:](https://mervemetinoglu.vercel.app/)
 
 ## Techs
 
