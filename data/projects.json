@@ -7,27 +7,28 @@
       "tools": [
         {
           "id": 10,
-          "name": "React"
+          "name": "React",
+          "url": "/react-logo.png"
         },
         {
           "id": 11,
-          "name": "Redux"
+          "name": "Redux",
+          "url": "/redux-logo.png"
         },
         {
           "id": 12,
-          "name": "React-Router"
+          "name": "React-Router",
+          "url": "/react-router-logo.png"
         },
         {
           "id": 13,
-          "name": "SASS"
+          "name": "SASS",
+          "url": "/sass-logo.png"
         },
         {
           "id": 14,
-          "name": "styled-components"
-        },
-        {
-          "id": 15,
-          "name": "react-toastify"
+          "name": "styled-components",
+          "url": "/styled-components-logo.png"
         }
       ],
       "url": "https://github.com/mervemetinoglu/ciceksepeti-patika-react-bootcamp-graduation-project",
@@ -40,35 +41,33 @@
       "tools": [
         {
           "id": 20,
-          "name": "React"
+          "name": "React",
+          "url": "/react-logo.png"
         },
         {
           "id": 21,
-          "name": "Node.js"
+          "name": "Node.js",
+          "url": "/nodejs-logo.png"
         },
         {
           "id": 22,
-          "name": "Express"
+          "name": "MySQL",
+          "url": "/mysql-logo.png"
         },
         {
           "id": 23,
-          "name": "MySQL"
+          "name": "Redux",
+          "url": "/redux-logo.png"
         },
         {
           "id": 24,
-          "name": "Redux"
+          "name": "React-Router",
+          "url": "/react-router-logo.png"
         },
         {
           "id": 25,
-          "name": "react-toastify"
-        },
-        {
-          "id": 26,
-          "name": "React-Router"
-        },
-        {
-          "id": 27,
-          "name": "SASS"
+          "name": "SASS",
+          "url": "/sass-logo.png"
         }
       ],
       "url": "https://github.com/mervemetinoglu/lecture-register-system",
@@ -81,11 +80,13 @@
       "tools": [
         {
           "id": 30,
-          "name": "SASS"
+          "name": "SASS",
+          "url": "/sass-logo.png"
         },
         {
           "id": 31,
-          "name": "gulp"
+          "name": "gulp",
+          "url": "/gulp-logo.png"
         }
       ],
       "url": "https://github.com/mervemetinoglu/star-wars-css-library",
@@ -98,23 +99,23 @@
       "tools": [
         {
           "id": 40,
-          "name": "React"
+          "name": "React",
+          "url": "/react-logo.png"
         },
         {
           "id": 41,
-          "name": "TypeScript"
+          "name": "TypeScript",
+          "url": "/typescript-logo.png"
         },
         {
           "id": 42,
-          "name": "SASS"
+          "name": "SASS",
+          "url": "/sass-logo.png"
         },
         {
           "id": 43,
-          "name": "Vite"
-        },
-        {
-          "id": 44,
-          "name": "classnames"
+          "name": "Vite",
+          "url": "/vitejs-logo.png"
         }
       ],
       "url": "https://github.com/mervemetinoglu/job-listing",
@@ -127,23 +128,23 @@
       "tools": [
         {
           "id": 50,
-          "name": "React"
+          "name": "React",
+          "url": "/react-logo.png"
         },
         {
           "id": 51,
-          "name": "i18next"
+          "name": "i18next",
+          "url": "/i18next-logo.png"
         },
         {
           "id": 52,
-          "name": "SASS"
+          "name": "SASS",
+          "url": "/sass-logo.png"
         },
         {
           "id": 53,
-          "name": "date-fns"
-        },
-        {
-          "id": 54,
-          "name": "react-toastify"
+          "name": "date-fns",
+          "url": "/date-fns-logo.png"
         }
       ],
       "url": "https://github.com/mervemetinoglu/bills-portal",

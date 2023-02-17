@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { TbExternalLink } from 'react-icons/tb';
 import { Project } from '@/data/models/projects.model';
 
@@ -7,8 +8,6 @@ export interface IProjectsListItemProps {
 }
 
 export const ProjectsListItem = ({ projectItem }: IProjectsListItemProps) => {
-  const toolsWithComma = projectItem.tools.map((item) => item.name).join(', ');
-
   return (
     <li className="group relative flex h-32 items-center overflow-hidden px-2 py-16 md:h-40 md:cursor-pointer md:py-24">
       <Link
@@ -26,8 +25,19 @@ export const ProjectsListItem = ({ projectItem }: IProjectsListItemProps) => {
         {projectItem.name}
       </div>
       <div className="absolute left-1/2 w-1/2 text-xs text-zinc400 duration-1000 md:text-base  md:group-hover:left-full">
-        <span>{toolsWithComma}</span>
-        <div className="mt-2 flex items-center md:hidden">
+        <div className="flex flex-wrap items-center">
+          {projectItem.tools.map((item) => (
+            <Image
+              width={36}
+              height={36}
+              key={item.id}
+              src={item.url}
+              alt={item.name}
+              className="mr-3 mt-2 w-7 md:w-9 lg:mt-0"
+            />
+          ))}
+        </div>
+        <div className="mt-3 flex items-center md:hidden">
           <span className="mr-1 text-xs">See the source code</span>
           <Link
             target="_blank"
