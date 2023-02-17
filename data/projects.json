@@ -8,31 +8,30 @@
         {
           "id": 10,
           "name": "React",
-          "url": "/react-logo.png"
+          "url": "/react-logo.webp"
         },
         {
           "id": 11,
           "name": "Redux",
-          "url": "/redux-logo.png"
+          "url": "/redux-logo.webp"
         },
         {
           "id": 12,
           "name": "React-Router",
-          "url": "/react-router-logo.png"
+          "url": "/react-router-logo.webp"
         },
         {
           "id": 13,
           "name": "SASS",
-          "url": "/sass-logo.png"
+          "url": "/sass-logo.webp"
         },
         {
           "id": 14,
           "name": "styled-components",
-          "url": "/styled-components-logo.png"
+          "url": "/styled-components-logo.webp"
         }
       ],
-      "url": "https://github.com/mervemetinoglu/ciceksepeti-patika-react-bootcamp-graduation-project",
-      "img": "https://via.placeholder.com/150"
+      "url": "https://github.com/mervemetinoglu/ciceksepeti-patika-react-bootcamp-graduation-project"
     },
     {
       "id": 2,
@@ -42,36 +41,35 @@
         {
           "id": 20,
           "name": "React",
-          "url": "/react-logo.png"
+          "url": "/react-logo.webp"
         },
         {
           "id": 21,
           "name": "Node.js",
-          "url": "/nodejs-logo.png"
+          "url": "/nodejs-logo.webp"
         },
         {
           "id": 22,
           "name": "MySQL",
-          "url": "/mysql-logo.png"
+          "url": "/mysql-logo.webp"
         },
         {
           "id": 23,
           "name": "Redux",
-          "url": "/redux-logo.png"
+          "url": "/redux-logo.webp"
         },
         {
           "id": 24,
           "name": "React-Router",
-          "url": "/react-router-logo.png"
+          "url": "/react-router-logo.webp"
         },
         {
           "id": 25,
           "name": "SASS",
-          "url": "/sass-logo.png"
+          "url": "/sass-logo.webp"
         }
       ],
-      "url": "https://github.com/mervemetinoglu/lecture-register-system",
-      "img": "https://via.placeholder.com/150"
+      "url": "https://github.com/mervemetinoglu/lecture-register-system"
     },
     {
       "id": 3,
@@ -81,16 +79,15 @@
         {
           "id": 30,
           "name": "SASS",
-          "url": "/sass-logo.png"
+          "url": "/sass-logo.webp"
         },
         {
           "id": 31,
           "name": "gulp",
-          "url": "/gulp-logo.png"
+          "url": "/gulp-logo.webp"
         }
       ],
-      "url": "https://github.com/mervemetinoglu/star-wars-css-library",
-      "img": "https://via.placeholder.com/150"
+      "url": "https://github.com/mervemetinoglu/star-wars-css-library"
     },
     {
       "id": 4,
@@ -100,26 +97,25 @@
         {
           "id": 40,
           "name": "React",
-          "url": "/react-logo.png"
+          "url": "/react-logo.webp"
         },
         {
           "id": 41,
           "name": "TypeScript",
-          "url": "/typescript-logo.png"
+          "url": "/typescript-logo.webp"
         },
         {
           "id": 42,
           "name": "SASS",
-          "url": "/sass-logo.png"
+          "url": "/sass-logo.webp"
         },
         {
           "id": 43,
           "name": "Vite",
-          "url": "/vitejs-logo.png"
+          "url": "/vitejs-logo.webp"
         }
       ],
-      "url": "https://github.com/mervemetinoglu/job-listing",
-      "img": "https://via.placeholder.com/150"
+      "url": "https://github.com/mervemetinoglu/job-listing"
     },
     {
       "id": 5,
@@ -129,26 +125,25 @@
         {
           "id": 50,
           "name": "React",
-          "url": "/react-logo.png"
+          "url": "/react-logo.webp"
         },
         {
           "id": 51,
           "name": "i18next",
-          "url": "/i18next-logo.png"
+          "url": "/i18next-logo.webp"
         },
         {
           "id": 52,
           "name": "SASS",
-          "url": "/sass-logo.png"
+          "url": "/sass-logo.webp"
         },
         {
           "id": 53,
           "name": "date-fns",
-          "url": "/date-fns-logo.png"
+          "url": "/date-fns-logo.webp"
         }
       ],
-      "url": "https://github.com/mervemetinoglu/bills-portal",
-      "img": "https://via.placeholder.com/150"
+      "url": "https://github.com/mervemetinoglu/bills-portal"
     }
   ]
 }

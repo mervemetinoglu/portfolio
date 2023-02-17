@@ -28,6 +28,7 @@ export const ProjectsListItem = ({ projectItem }: IProjectsListItemProps) => {
         <div className="flex flex-wrap items-center">
           {projectItem.tools.map((item) => (
             <Image
+              priority
               width={36}
               height={36}
               key={item.id}
