@@ -2,27 +2,34 @@
   "data": [
     {
       "id": 1,
+      "date": "Apr 2023 - Present",
+      "companyName": "Fazla",
+      "role": "Jr. Frontend Developer",
+      "description": "I am part of a team that developed Market project for holistic waste management solutions. We are using Next.js, Tanstack-Query, TypeScript, and Material UI."
+    },
+    {
+      "id": 2,
       "date": "Feb - Nov 2022",
       "companyName": "Radity",
       "role": "Jr. Frontend Developer",
       "description": "I was part of a team that developed Insurance Portals using React, React - Context API, React Router, TypeScript, and Material UI."
     },
     {
-      "id": 2,
+      "id": 3,
       "date": "Sep - Oct 2021",
       "companyName": "CicekSepeti & Patika.dev React Bootcamp",
       "role": "Student",
       "description": "I participated in the React Bootcamp organized by CicekSepeti and Patika.dev. I learned the basics of JavaScript, HTML, CSS, and React."
     },
     {
-      "id": 3,
+      "id": 4,
       "date": "Aug - Sep 2020",
       "companyName": "OBSS Technology",
       "role": "Intern",
       "description": "It was my summer internship. I learned Java SE, Java EE, and Spring Framework."
     },
     {
-      "id": 4,
+      "id": 5,
       "date": "2017 - Jun 2021",
       "companyName": "Kocaeli University",
       "role": "Student",
