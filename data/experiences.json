@@ -2,31 +2,31 @@
   "data": [
     {
       "id": 1,
-      "date": "Apr 2023 - Present",
+      "date": "Apr - Nov 2023",
       "companyName": "Fazla",
-      "role": "Jr. Frontend Developer",
-      "description": "I am part of a team that developed Market project for holistic waste management solutions. We are using Next.js, Tanstack-Query, TypeScript, and Material UI."
+      "role": "Frontend Developer",
+      "description": "I was part of the team that developed the Market project, where surplus products were offered for sale. Tech Stack: Monorepo (Nx), Next.js, Tanstack-Query, TypeScript, Material UI"
     },
     {
       "id": 2,
       "date": "Feb - Nov 2022",
       "companyName": "Radity",
       "role": "Jr. Frontend Developer",
-      "description": "I was part of a team that developed Insurance Portals using React, React - Context API, React Router, TypeScript, and Material UI."
+      "description": "I was part of the team that developed a portal in the field of car insurance. Tech Stack: React, React - Context API, React Router, TypeScript, Material UI"
     },
     {
       "id": 3,
       "date": "Sep - Oct 2021",
       "companyName": "CicekSepeti & Patika.dev React Bootcamp",
       "role": "Student",
-      "description": "I participated in the React Bootcamp organized by CicekSepeti and Patika.dev. I learned the basics of JavaScript, HTML, CSS, and React."
+      "description": "I participated in the React Bootcamp organized by CicekSepeti and Patika.dev. Tech Stac: JavaScript, HTML, CSS, SASS, React"
     },
     {
       "id": 4,
       "date": "Aug - Sep 2020",
       "companyName": "OBSS Technology",
       "role": "Intern",
-      "description": "It was my summer internship. I learned Java SE, Java EE, and Spring Framework."
+      "description": "I was part of an internship program where I studied Java. Tech Stack: Java SE, Java EE, Spring Framework"
     },
     {
       "id": 5,
