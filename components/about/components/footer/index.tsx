@@ -5,7 +5,6 @@ import {
   AiOutlineGithub,
   AiOutlineLinkedin,
   AiOutlineMail,
-  AiOutlinePhone,
 } from 'react-icons/ai';
 
 export const Footer = () => {
@@ -14,9 +13,6 @@ export const Footer = () => {
       <div className="h-16 w-16 overflow-hidden rounded-full">
         <Image src={profileImg} alt="Image of the author" />
       </div>
-      <FooterLinkItem aria-label="Phone" href="tel:+905411922106">
-        <AiOutlinePhone />
-      </FooterLinkItem>
       <FooterLinkItem
         aria-label="Email"
         href="mailto:mervemetinogluu@gmail.com"
