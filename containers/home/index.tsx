@@ -1,4 +1,4 @@
-import { Nunito } from '@next/font/google';
+import { Nunito } from 'next/font/google';
 import projects from '@/data/projects.json';
 import experiences from '@/data/experiences.json';
 import { About, Projects, ExperienceList } from '@/components';
