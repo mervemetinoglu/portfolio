@@ -8,7 +8,7 @@ This is a portfolio project that I have developed for myself using Next.js.
 
 This software uses the following open source packages:
 
-- [Next.JS 13](https://beta.nextjs.org/)
+- [Next.js 16](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [react-icons](https://www.npmjs.com/package/react-icons)

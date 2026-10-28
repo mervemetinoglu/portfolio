@@ -1,4 +1,13 @@
+import type { Metadata } from 'next';
 import './globals.css';
+
+export const metadata: Metadata = {
+  title: 'Merve Sofuoğlu',
+  description: 'Portfolio of Merve Sofuoğlu, Frontend Engineer',
+  icons: {
+    icon: '/favicon.svg',
+  },
+};
 
 export default function RootLayout({
   children,
@@ -7,7 +16,6 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head />
       <body className="bg-night100">{children}</body>
     </html>
   );
