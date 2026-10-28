@@ -1,7 +1,6 @@
 import { Nunito } from 'next/font/google';
-import projects from '@/data/projects.json';
 import experiences from '@/data/experiences.json';
-import { About, Projects, ExperienceList } from '@/components';
+import { About, ExperienceList } from '@/components';
 
 const nunito = Nunito({
   subsets: ['latin'],
@@ -17,7 +16,6 @@ export const HomeContainer = () => {
       <About />
       <div className="mt-6 w-full md:pb-24 lg:mt-24 lg:overflow-y-scroll">
         <ExperienceList data={experiences.data} />
-        <Projects data={projects.data} />
       </div>
     </main>
   );

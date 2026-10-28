@@ -8,11 +8,6 @@ export const NavigationBar = () => {
         name="experience"
         className="w-6 group-hover:w-10"
       />
-      <NavigationBarItem
-        url="#projects"
-        name="projects"
-        className="w-10 group-hover:w-16"
-      />
     </nav>
   );
 };
