@@ -1,32 +1,39 @@
 {
   "data": [
     {
+      "id": 7,
+      "date": "Sep 2024 - Present",
+      "companyName": "letgo",
+      "role": "Frontend Engineer",
+      "description": "Built and launched letgo's commerce and payment experience on the web, letting users buy and sell securely inside the platform. Developed the monetization products that grow the company's revenue, including promotions, paid listing features and seller subscriptions. Drove frontend architecture and performance improvements across a large-scale Next.js application. Contributed to the company's shared design system and strengthened code quality and reliability with end-to-end testing and better error monitoring. Served as Scrum Master for the Growth squad for about 7 months, running daily stand-ups, tracking sprint progress and keeping work moving across the team. Tech Stack: Next.js, React, TypeScript, Redux, Tailwind, Playwright"
+    },
+    {
       "id": 6,
       "date": "May - Aug 2024",
       "companyName": "SHFT",
       "role": "Frontend Developer",
-      "description": "I am part of the team that developed the customer communication platform. Tech Stack: Next.js 14, Tanstack-Query, TypeScript, React Hook Form, Tailwind CSS"
+      "description": "I developed the entire customer communication platform from start to finish. Tech Stack: Next.js 14, TypeScript, Tanstack-Query, React Hook Form, Tailwind CSS"
     },
     {
       "id": 5,
       "date": "Apr - Nov 2023",
       "companyName": "Fazla",
-      "role": "Frontend Developer",
-      "description": "I was part of the team that developed the Market project, where surplus products were offered for sale. Tech Stack: Monorepo (Nx), Next.js, Tanstack-Query, TypeScript, Material UI"
+      "role": "Jr. Frontend Developer",
+      "description": "I was part of the team that developed the e-commerce project called Fazla Market, where surplus products were offered for sale. TypeScript integration into the project. Implementing and refactoring components according to analyses and design system. Developing new pages using NextJS 13 Pages Router. Write and refactoring unit tests using Jest and Testing Library. Tech Stack: Monorepo (Nx), Next.js 13, TypeScript, Tanstack-Query, Material UI"
     },
     {
       "id": 4,
-      "date": "Feb - Nov 2022",
+      "date": "Feb - Oct 2022",
       "companyName": "Radity",
       "role": "Jr. Frontend Developer",
-      "description": "I was part of the team that developed a portal in the field of car insurance. Tech Stack: React, React - Context API, React Router, TypeScript, Material UI"
+      "description": "I was part of the team that developed a portal for car insurance. Developing new portal pages following the analysis. Developing, handling, and optimizing forms with Formik. Developing reusable and pixel-perfect components. Tech Stack: React, TypeScript, React-Context API, React Router, Material UI"
     },
     {
       "id": 3,
       "date": "Sep - Oct 2021",
-      "companyName": "CicekSepeti & Patika.dev React Bootcamp",
-      "role": "Student",
-      "description": "I participated in the React Bootcamp organized by CicekSepeti and Patika.dev. Tech Stack: JavaScript, HTML, CSS, SASS, React"
+      "companyName": "Çiçeksepeti / Patika.dev Bootcamp",
+      "role": "Bootcamp Student",
+      "description": "I participated in the React Bootcamp organized by Ciceksepeti and Patika.dev. Tech Stack: JavaScript, HTML, CSS, SASS, React"
     },
     {
       "id": 2,
@@ -37,10 +44,10 @@
     },
     {
       "id": 1,
-      "date": "2017 - Jun 2021",
+      "date": "Sep 2017 - 2021",
       "companyName": "Kocaeli University",
-      "role": "Student",
-      "description": "I studied Computer Engineering at Kocaeli University. I learned C, Java, Data Structures, Algorithms, Database, Operating Systems, and Computer Networks."
+      "role": "Computer Engineering",
+      "description": "Kocaeli University — Computer Engineering."
     }
   ]
 }

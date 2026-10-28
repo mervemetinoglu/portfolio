@@ -1,7 +1,12 @@
 import Image from 'next/image';
 import profileImg from 'public/mm.jpg';
 import { FooterLinkItem } from './components';
-import { AiOutlineGithub, AiOutlineLinkedin } from 'react-icons/ai';
+import {
+  AiOutlineGithub,
+  AiOutlineLinkedin,
+  AiOutlineMail,
+  AiOutlinePhone,
+} from 'react-icons/ai';
 
 export const Footer = () => {
   return (
@@ -9,6 +14,15 @@ export const Footer = () => {
       <div className="h-16 w-16 overflow-hidden rounded-full">
         <Image src={profileImg} alt="Image of the author" />
       </div>
+      <FooterLinkItem aria-label="Phone" href="tel:+905411922106">
+        <AiOutlinePhone />
+      </FooterLinkItem>
+      <FooterLinkItem
+        aria-label="Email"
+        href="mailto:mervemetinogluu@gmail.com"
+      >
+        <AiOutlineMail />
+      </FooterLinkItem>
       <FooterLinkItem
         aria-label="Github"
         href="https://www.github.com/mervemetinoglu"
